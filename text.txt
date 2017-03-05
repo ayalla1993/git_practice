@@ -1,6 +1,1 @@
-this is my 1st line
-<<<<<<< HEAD
-this is my 2nd edit
-=======
-this is my 2nd line
->>>>>>> a1d9f557e7523517dd27134d96ac50379fcbd383
+Hi this is aditya and it is git_practice
